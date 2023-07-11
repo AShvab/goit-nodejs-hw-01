@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/AShvab/goit-nodejs-hw-01#readme",
   "dependencies": {
-    "commander": "^11.0.0"
+    "commander": "^11.0.0",
+    "nanoid": "^4.0.2",
+    "yargs": "^17.7.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
