@@ -13,5 +13,3 @@ https://ibb.co/MZKtP4m
 https://ibb.co/nMkd7h9
 
 
-Оновлюємо/ контакт:
-https://ibb.co/Vgxyych 
